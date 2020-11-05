@@ -1,6 +1,6 @@
 # <u>**Lebenslauf Luke Skywalker**</u>
 
-![Old_Luke](C:\Users\Administrator\Desktop\HS-Furtwangen Studium\3.Semester\OSSE\Einkaufsliste\Old_Luke.png)
+![](Old_Luke.png"Luke Skywalker")
 
 - <u>Schullaufbahn:</u>
 
