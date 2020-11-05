@@ -1,6 +1,6 @@
 # <u>**Lebenslauf Luke Skywalker**</u>
 
-![](Old_Luke.png"Luke Skywalker")
+![Old_Luke](Old_Luke.png "Luke Skywalker")
 
 - <u>Schullaufbahn:</u>
 
